@@ -4,7 +4,7 @@
 ##### Група на код: 1
 
 ## Control Flow Graph
-![GitHub Image](/SI_lab2_171264/ControlFlowGraph .png)
+![GitHub Image](/SI_lab2_171264/ControlFlowGraph.png)
 
 ## Цикломатска комплексност
 
