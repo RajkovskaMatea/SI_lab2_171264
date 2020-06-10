@@ -4,7 +4,7 @@
 ##### Група на код: 1
 
 ## Control Flow Graph
-![GitHub Image](/SI_lab2_171264/CFG.png)
+![GitHub Image](/SI_lab2_171264/ControlFlowGraph .png)
 
 ## Цикломатска комплексност
 
@@ -22,4 +22,5 @@
 5. ABCDE.1E.2FHE.3JLM
 6. ABCDE.1E.2FGHE.3JLM
 7. ABCDE.1E.2FHIE.3JLM
+
 Сите патишта во Control Flow Graph
